@@ -11,7 +11,7 @@ Analyze and optimize operations for a fictional pizza delivery startup. Includes
 
 ### 2. 🏃‍♂️ Diner Dash  
 Track restaurant orders, waiting times, and kitchen efficiency. A great look at queueing, prioritization, and service time optimization with SQL.  
--- To be updated
+-- To be updated soon
 
 ### 3. 🏬 Data Mart  
 Data Mart is a latest venture and the owner wants our help to analyze the sales and performance of his venture. In June 2020 - large scale supply changes were made at Data Mart. All Data Mart products now use sustainable packaging methods in every single step from the farm all the way to the customer. He needs our help to quantify the impact of this change on the sales performance for Data Mart and its separate business areas.  
